@@ -1,5 +1,3 @@
-### 👋 Hi there
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Stay+Hungry%2C+Stay+foolish.)](https://git.io/typing-svg)
@@ -11,9 +9,6 @@ width="800"  height="3">
 
 </div>
 
-
-<details open>
-
 <div align="center">
 
 
@@ -23,4 +18,4 @@ width="800"  height="3">
 
 </div>
 
-</details>
+
