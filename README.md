@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hr1201&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=#12261e&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dreamin121&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=12261e&hide_title=true" />
 
 ### 分享自己有趣的代码 👋
-- [个人网站](https://rorrot.cc)
+- [个人网站](https://xmelon.cafe)
 
 <!--
 **hr1201/hr1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
