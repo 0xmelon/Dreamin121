@@ -13,7 +13,6 @@ width="800"  height="3">
 
 
 <details open>
-<summary>点击展开 ...</summary>
 
 <div align="center">
 
