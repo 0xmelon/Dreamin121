@@ -1,6 +1,6 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Stay+Hungry%2C+Stay+foolish.)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Long+Cang&pause=1000&color=21CBF7&center=true&multiline=true&width=435&lines=%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1+Keep+Your+Love%EF%BC%81;Stay+Hungry%2C+Stay+Foolish.)](https://git.io/typing-svg)
 
 
 
