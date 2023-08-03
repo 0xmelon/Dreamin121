@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/ddy-ddy/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Dreamin/count.svg" />  
 </p>
 <div align="center">
   
